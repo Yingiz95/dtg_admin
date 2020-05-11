@@ -16,9 +16,9 @@
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
-        <ProgressBar HorizontalAlignment="Left" Height="29" VerticalAlignment="Top" Width="456" Margin="183,211,0,0"/>
+        <ProgressBar x:Name="Pbar_load" HorizontalAlignment="Left" Height="29" VerticalAlignment="Top" Width="456" Margin="183,211,0,0"/>
         <Label Content="DTG-Admin&#xD;&#xA;" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="105,29,0,0" Width="639" Height="149" FontSize="110" FontWeight="Bold" Background="{x:Null}" Foreground="White"/>
-        <Label Content="Loading...." HorizontalAlignment="Center" VerticalAlignment="Top" Margin="346,270,342,0" Width="112" FontSize="20" FontWeight="Bold" Foreground="White"/>
+        <Label x:Name="Lbl_load" Content="Loading...." HorizontalAlignment="Center" VerticalAlignment="Top" Margin="346,270,342,0" Width="112" FontSize="20" FontWeight="Bold" Foreground="White"/>
         <Label Content="© Copyright 2020 by Dominik Knezovic" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,374,0,0" Foreground="White"/>
     </Grid>
 </Window>

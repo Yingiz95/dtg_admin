@@ -1,7 +1,6 @@
 C:\Users\domin\source\repos\dtg_admin\bin\Debug\dtg_admin.exe.config
 C:\Users\domin\source\repos\dtg_admin\bin\Debug\dtg_admin.exe
 C:\Users\domin\source\repos\dtg_admin\bin\Debug\dtg_admin.pdb
-C:\Users\domin\source\repos\dtg_admin\obj\Debug\dtg_admin.csprojAssemblyReference.cache
 C:\Users\domin\source\repos\dtg_admin\obj\Debug\App.g.cs
 C:\Users\domin\source\repos\dtg_admin\obj\Debug\dtg_admin_MarkupCompile.cache
 C:\Users\domin\source\repos\dtg_admin\obj\Debug\dtg_admin_MarkupCompile.lref
@@ -17,3 +16,4 @@ C:\Users\domin\source\repos\dtg_admin\obj\Debug\FORMS\Start.g.cs
 C:\Users\domin\source\repos\dtg_admin\obj\Debug\FORMS\Login.baml
 C:\Users\domin\source\repos\dtg_admin\obj\Debug\FORMS\Main.baml
 C:\Users\domin\source\repos\dtg_admin\obj\Debug\FORMS\Start.baml
+C:\Users\domin\source\repos\dtg_admin\obj\Debug\dtg_admin.csprojAssemblyReference.cache
